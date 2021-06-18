@@ -28,13 +28,13 @@ Left/Right fundus classification is used to detect left and right fundus for mak
 Clone the project
 
 ```bash
-  git clone https://github.com/skfaysal/Left-Right-fundus-classification-from-retinal-image
+  git clone https://github.com/skfaysal/Left-Right-fundus-classification-from-retinal-image.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd Right-fundus-classification-from-retinal-image.git
+  cd Right-fundus-classification-from-retinal-image
 ```
 
 Create virtual environment using environement.yml
